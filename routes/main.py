@@ -5,7 +5,10 @@ routes = {
     "/index" : {
         "template" : "index.html"
     },
-    "/about" : {
+    "/aboutme" : {
         "template" : "about.html"
+    },
+    "/projects" : {
+        "template" : "projects.html"
     }
 }
