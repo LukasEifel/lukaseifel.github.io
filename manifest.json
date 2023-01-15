@@ -1,0 +1,44 @@
+{
+    "manifest_version": 3,
+    "name": "LukasEifel",
+    "short_name": "EifelWeb",
+    "version": "1.0.0",
+    
+    "default_locale": "de",
+    "lang": "de",
+    "description": "...",
+    "icons": [
+        {
+            "src": "/images/favicon16.png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/favicon24.png",
+            "sizes": "24x24"
+        },
+        {
+            "src": "/images/favicon32.png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/images/favicon48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/favicon256.png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/favicon512.png",
+            "sizes": "512x512"
+        }
+    ],
+    
+    "author":"LukasEifel",
+    
+    "start_url": "../index.html",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#98E2ED",
+    "background_color": "white"
+}
