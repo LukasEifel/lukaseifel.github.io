@@ -1,0 +1,7 @@
+site:
+  name: LukasEifel
+
+main:
+  welcomeSection:
+    anchor: Welcome
+    p1: English index.html
